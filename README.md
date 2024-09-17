@@ -10,5 +10,4 @@
 
 ## About me
 
-I'm just a beginner, but I am looking forward to expand and develop my profile as I learn more coding languages nd collobrate with more individuals!
-
+I'm a beginner, but I'm eager to expand and develop my skills as I learn new coding languages and collaborate with others!
