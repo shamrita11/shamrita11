@@ -7,7 +7,8 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 
 ## About me
 
-I'm a beginner, but I'm eager to expand and develop my skills as I learn new coding languages and collaborate with others!
+I'm eager to expand and develop my skills as I learn new coding languages and collaborate with others!
